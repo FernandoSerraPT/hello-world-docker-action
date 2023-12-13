@@ -1,6 +1,7 @@
 # Add content to the action.yml file (see the template and help). 
 # Have the action run a Dockerfile and pass in the parameter who-to-greet with the default value world. 
 # Also give back an output that returns the current time.
+# Commit the file ([skip ci] to not run a build, yet).
 
 name: Hello, World!
 description: Greet someone and record the time
